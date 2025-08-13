@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-blue.svg)
 ![Projects](https://img.shields.io/badge/Projects-2-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 Welcome to my Java Projects repository! This collection contains a series of console-based applications built in Java. Each project is designed to practice and demonstrate fundamental programming concepts, starting from the basics and gradually moving to more complex topics like data structures and file I/O.
 
